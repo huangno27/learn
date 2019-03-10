@@ -1,0 +1,34 @@
+fridge = {"egg":2, "milk":3, "apple":2, "water":6}
+dlist = list(fridge.keys())
+food_sought = dlist
+for i in dlist:
+    if i == "egg":                       #print("这个元素在字典里") if 'egg' in fridge else print("没有找到这个元素")
+
+        print("这个元素在字典中")
+        break
+else:
+    print("没有找到元素")
+第二种
+fridge = {"egg":2, "milk":3, "apple":2, "water":6}
+food_sought = ["1", "2", "3", "4"]
+dlist = list(fridge.keys())
+for i in dlist:
+      if i in food_sought:
+          print(i '的值是',fridge[i]
+          break
+ else:
+        print("没有找到元素“）
+   
+   
+num = 1     #定义一个元组
+while   num < 10：  #设置while条件  加冒号
+if 条件：
+           print() 
+           break
+ elif条件：
+             print() 
+ else:
+        print() 
+  coutinue
+  print( "end") 
+     

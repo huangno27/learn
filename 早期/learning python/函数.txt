@@ -1,0 +1,51 @@
+>>> def MyfirstFunction():
+	print('这是我创建的第一个函数！')
+	print('我表示很激动！')
+	print('感谢TVB,感谢CCAV，感谢我自己')
+
+>>> MyfirstFunction()
+这是我创建的第一个函数！
+我表示很激动！
+感谢TVB,感谢CCAV，感谢我自己
+>>> MyfirstFunction() * 3
+这是我创建的第一个函数！
+我表示很激动！
+感谢TVB,感谢CCAV，感谢我自己
+Traceback (most recent call last):
+  File "<pyshell#6>", line 1, in <module>
+    MyfirstFunction() * 3
+TypeError: unsupported operand type(s) for *: 'NoneType' and 'int'
+>>> def MyFirstFunction (name):
+	print (name + '我爱你')
+
+>>> MyFirstFunction('阿拉丁')
+阿拉丁我爱你
+>>> 
+>>> def add(num1, num2)
+SyntaxError: invalid syntax
+>>> def add(num1, numm2):
+	return (num1 + num2)
+
+        
+>>> print(add(5,78))
+Traceback (most recent call last):
+  File "<pyshell#16>", line 1, in <module>
+    print(add(5,78))
+  File "<pyshell#15>", line 2, in add
+    return (num1 + num2)
+NameError: name 'num2' is not defined
+>>> print(add(5,6))
+Traceback (most recent call last):
+  File "<pyshell#17>", line 1, in <module>
+    print(add(5,6))
+  File "<pyshell#15>", line 2, in add
+    return (num1 + num2)
+NameError: name 'num2' is not defined
+>>> def add(num1 , num2):
+	return (num1 + num2)
+
+>>> print(add(5,1))
+6
+>>> print(add(5,78))
+83
+>>> 

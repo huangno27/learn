@@ -1,0 +1,18 @@
+class Wenjuan():
+    def __init__(self,question):
+        self.question = question
+        self.answers = []
+
+    def show_question(self,wenjuan):
+        """展示问卷内容"""
+        print(wenjuan)
+
+
+    def tj_answer(self,new_answer):
+        """存储并添加答案"""
+        self.answers.append(new_answer)
+
+    def show_all_quertion(self,answers):
+        print("所有答案")
+        for answer in answers:
+            print(answer)

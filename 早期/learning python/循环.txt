@@ -1,0 +1,30 @@
+import random
+secret = random.randint(1,10)
+temp = input("猜猜看:")
+guess = int(temp)
+while guess != secret:
+    temp = input("猜错了，再来一次:")
+    guess = int(temp)
+    if guess == secret:
+        print('对哦')
+        print('聪明')
+    else:
+        if guess >=secret:
+            print('错错错，大大大！')
+        else:
+            print('错错错，小小小！')
+print('GAME OVER')
+
+
+
+## for 循环
+def text_create():
+    path = '/Users/duwangdan/Desktop/'
+    for text_name in range(1,11):
+        # 1-10的范围需要用到range函数
+        with open (path + str(text_name) + '.txt','w') as text:
+            # with...as的用法正文内会详细介绍
+            text.write(str(text_name))
+            text.close()
+            print('Done')
+text_create()

@@ -1,0 +1,6 @@
+assertEqual(a,b)                                           核实a == b
+assertNotEqual(a,b)                                     核实a != b
+assertTrue(x)                                               核实（x为True）
+assertFalse(x)                                              核实（x为False）
+assertIn(item,list)                                         核实（item在list中）
+assertNotIn(item,list)                                   核实（item不在list中）

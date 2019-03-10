@@ -1,0 +1,1 @@
+Python接口自动化测试之requests库入门:http://m.blog.csdn.net/blog/index?username=u011541946&categoryid=7115579

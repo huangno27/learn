@@ -1,0 +1,114 @@
+﻿JSON转C#实体类 :
+	http://www.bejson.com/convert/json2csharp/ 
+        http://www.bejson.com/jsonviewernew/
+
+LoadRunner:
+	Loadrunner12.02安装包及中文包全套下载 :
+           https://pan.baidu.com/s/1bpwWXCN#list/path=%2F
+        LoadRunner11安装教程:
+           LoadRunner11安装教程
+        https://jingyan.baidu.com/article/da1091fb199da7027849d6ff.html
+	何彻底卸载电脑上安装的Loadrunner:
+	https://wenku.baidu.com/view/bd5114a9b9f3f90f76c61bc8.html
+Jemter: 
+	http://pan.baidu.com/s/1bpvmld1
+        http://pan.baidu.com/s/1pKSx0QR
+	Jmeter测试dubbo服务：
+	https://github.com/kevinleedev/jmeter-dubbo-test-demo
+	接口自动化：jmeter+ant+Jenkins
+
+HTML5：
+	http://www.w3school.com.cn/----------------------平台
+	https://www.imooc.com/course/list?c=html---------视频
+	http://www.w3school.com.cn/html/index.asp--------文字
+
+Pythpon:
+	python中单引号，双引号，多引号区别:
+	http://blog.csdn.net/caianye/article/details/6638183 
+	Python的学习流程：http://www.runoob.com/python/python-tutorial.html       
+	pycharm2017.2.4的license server的激活工具：http://xidea.online
+	python的官网：https://www.python.org/downloads/windows/ 
+	python中re模块的用法：http://blog.csdn.net/yjj20007665/article/details/52370264
+	python接口自动化书：
+	https://yuedu.baidu.com/ebook/585ab168302b3169a45177232f60ddccda38e695 
+	python接口开发书：
+	https://yuedu.baidu.com/ebook/8288e33e59fb770bf78a6529647d27284b7337b1 
+	python文件:    http://pan.baidu.com/s/1nvoTKY9   2ah4
+	从零开始学Python：
+	https://yuedu.baidu.com/ebook/ec1aa9f7b90d6c85ec3ac6d7?fr=booklist
+selenium:
+	selenium视频:   https://pan.baidu.com/s/1qXNKYb6   i8pv
+	XPath的元素定位：  http://blog.csdn.net/hujie243303098/article/details/78550338
+
+	selenium webdriver基于Python源码案例：
+	https://yuedu.baidu.com/ebook/0f6a093b7dd184254b35eefdc8d376eeaeaa17e3
+	selenium处理极验滑动验证码：	http://www.cnblogs.com/wangly/p/5630069.html
+appium：
+	appium自动化：
+	https://yuedu.baidu.com/ebook/7d75728ca0c7aa00b52acfc789eb172ded63991c
+Linux:
+	linux视频：
+	https://pan.baidu.com/s/1eSfDxM6    nbhq
+
+
+
+
+vim很实用：  http://www.cnblogs.com/yangjig/p/6014198.html 
+压缩图片的5.30：   https://tinypng.com/ 
+maven + httpclient + testng框架测试报告需要另外处理吗  报告用reportng
+
+YOYO的博客：
+	http://www.cnblogs.com/yoyoketang/
+虫师的资料：
+	http://www.testclass.net/requests/
+博客园论坛： 
+CSDN  论坛：
+	51Testing: http://bbs.51testing.com/thread-384320-1-1.html
+插件地址：
+	https://jmeter-plugins.org/wiki/Start/
+书籍的网址：
+	https://yuedu.baidu.com/
+	http://download.csdn.net/download/andyzhouh/9869528
+获取手机的root权限：
+	http://www.miui.com/thread-642260-1-1.html
+        https://baike.baidu.com/item/Windows%20Power%20Shell/693789?fr=aladdin&fromid=1061700&fromtitle=PowerShell
+Java Swing控件实现PC端获取连接的android设备和设备中的包名：
+	http://www.jianshu.com/p/e4062fcc8a56 
+android apk与uiautomator2传参总结：
+	http://www.jianshu.com/p/45b4988a62b5
+接口自动化测试开源框架：   https://github.com/liwanlei/FXTest 
+网络爬虫应用框架：scrapy
+
+
+
+APP性能测试：http://www.51testing.com/html/14/n-3722014.html
+             http://www.51testing.com/html/34/n-3720434.html
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
